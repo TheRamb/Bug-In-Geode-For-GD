@@ -18,3 +18,4 @@ Hello all, i have a new problem in Geode for Geometry dash! Please Help me to fi
 19:05:44 INFO  [Main] [Geode]: Setting up internal mod
 and
 Geode is running in a newer version of GD than Geode targets. UI is going to be disabled, platform console is forced on and crashes can be more common. However, if your game crashes, it is probably caused by an  outdated mod and not Geode itself
+My email is: meyendorffikYT@gmail.com , please help me!
